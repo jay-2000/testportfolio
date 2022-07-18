@@ -104,6 +104,10 @@ p {
     margin: 20px;
 }
 
+svg:hover{
+    fill: #ef744b;
+}
+
 .sub-section {
     display: flex;
     justify-content: space-around;
