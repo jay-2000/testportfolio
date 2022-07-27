@@ -5,7 +5,7 @@
 
 <br>
 
-- [source of svg's](https://iconmonstr.com/)
+- [source of svg's - iconmonstr](https://iconmonstr.com/)
 <br>
 
 ## Note:
